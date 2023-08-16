@@ -1,0 +1,68 @@
+
+.baner-container{
+    background-color:  #fceafc ;
+    margin-bottom: 50px;
+}
+.carousel-item{
+    padding: 20px 40px;
+
+}
+.carousel-item h3{
+        color: rgb(255, 9, 9);
+}
+.bay-now-button{
+    background-image: linear-gradient(to bottom,#ff589b 0%,#ff136f 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.card{
+    box-shadow: 5px 5px 10px gray;
+}
+.card h3{
+    color: orangered;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+.seeall{
+    color: gold;
+    margin-top: 30px;
+}
+.categories{
+    height: 500px;
+    background-color:#fceafc ;
+    margin:  50px 0px ;
+}
+.logo{
+    background-color: white;
+    width:200px;
+    border-radius: 0px 10px 0px 15px;
+    text-align: center;
+    padding: 30px 20px;
+    height: 200px;
+    margin: 20px;
+}
+.order-logo{
+    margin-left: -30px;
+    height: 400px;
+    width: 500px;
+}
+#Login{
+    margin-top: 50px;
+    height: 350px;
+    background-color:#fceafc ;
+}
+#bilder{
+    background-color: lightcyan;
+    height: 100px;
+    color: gray;
+    margin-top: 50px;
+}
+#bilder img{
+    height: 80px;
+    width: 80px;
+}
